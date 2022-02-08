@@ -1,0 +1,37 @@
+[
+ {
+     "Course": "Math-1350",
+     "Prof" : "Carl Gladish",
+     "Room" : "652"
+ },
+ {
+    "Course": "Acit-2420",
+    "Prof" : "Nathan McNinch",
+    "Room" : "581"
+},
+{
+    "Course": "ACIT-2520",
+    "Prof" : "Fredrick Guo",
+    "Room" : "676"
+},
+{
+    "Course": "ACIT-2515",
+    "Prof" : "Tim Guicherd",
+    "Room" : "590"
+},
+{
+    "Course": "ACIT 2831",
+    "Prof" : "Trevor Lord",
+    "Room" : "590"
+},
+{
+    "Course": "ACIT 2620",
+    "Prof" : "Yves Shema",
+    "Room" : "553"
+},
+{
+    "Course": "COMM-2216",
+    "Prof" : "Derek Jemensky",
+    "Room" : "652"
+}
+]
